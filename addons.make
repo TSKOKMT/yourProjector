@@ -1,0 +1,16 @@
+ofxClipper
+ofxConvexHull
+ofxOpenCv
+ofxCv
+ofxFFApp
+ofxFFSilhouette
+ofxFFTouch
+ofxFboBlur
+ofxGui
+ofxOsc
+ofxSharedMemory
+ofxSyphon
+ofxTskokmtMath
+ofxTskokmtTool
+ofxTskokmtTranslator
+ofxXmlSettings
